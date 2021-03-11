@@ -1,2 +1,18 @@
-# MarkdownTutorial
-Hello. Here you will learn the basics of syntax __Markdown__
+# Markdown ![Markdown](https://img.shields.io/badge/-Markdown-090909?style=for-the-badge&logo=Markdown&logoColor=E5D3FF)[](https://ru.wikipedia.org/wiki/Markdown)
+
+## Общие сведения
+_**Markdown**_ – это, довольно, облегченный язык разметки, который является инструментом преобразования кода в **HTML**. Главной фичей данного языка является максимально простой синтаксис с который справится даже ребенок, который умеет пользоваться компьютером. Markdown создан для упрощения написания и чтения кода разметки. 
+
+**Утверждение:** _Markdown нельзя заменить HTML._
+
+**Доказательство:**
+>Синтаксис _Markdown_ давильно ограничен и не включает в себя такой функционал, как _HTML_. 
+Если говорить просто, то  _Markdown_ это подмножество  _HTML_.
+
+## Оглавление 
+
+## Заголовки
+
+<!--
+https://gist.github.com/Jekins/2bf2d0638163f1294637
+Теперь рассмотрим более подробно функции языка разметки Markdown.-->
