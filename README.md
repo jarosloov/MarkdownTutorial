@@ -1,4 +1,4 @@
-# Markdown ![Markdown](https://img.shields.io/badge/-Markdown-090909?style=for-the-badge&logo=Markdown&logoColor=E5D3FF)[](https://ru.wikipedia.org/wiki/Markdown)
+#[Markdown](https://ru.wikipedia.org/wiki/Markdown)
 
 ## Общие сведения
 _**Markdown**_ – это, довольно, облегченный язык разметки, который является инструментом преобразования кода в **HTML**. Главной фичей данного языка является максимально простой синтаксис с который справится даже ребенок, который умеет пользоваться компьютером. Markdown создан для упрощения написания и чтения кода разметки. 
